@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Travel Hub</title>
+</head>
+<body>
+
+    <h1>Favorite Travel Destinations</h1>
+    <p>A simple list of places I'd like to visit, organized by priority.</p>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Priority</th>
+                <th>Destination</th>
+                <th>Estimated Cost</th>
+                <th>Map Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1st</td>
+                <td>Kyoto, Japan</td>
+                <td>$4,000</td>
+                <td><a href="#">Coming Soon</a></td>
+            </tr>
+            <tr>
+                <td>2nd</td>
+                <td>The Alps, Switzerland</td>
+                <td>$3,500</td>
+                <td><a href="#">Coming Soon</a></td>
+            </tr>
+            <tr>
+                <td>3rd</td>
+                <td>Cotswolds, England</td>
+                <td>$2,500</td>
+                <td><a href="#">Coming Soon</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <h2>Quick Travel Tip</h2>
+    <details>
+        <summary>Click for Packing Advice</summary>
+        <p>Always pack comfortable walking shoes and a universal adapter.</p>
+    </details>
+
+</body>
+</html>
